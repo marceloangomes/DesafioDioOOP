@@ -1,0 +1,15 @@
+C:\Users\marcelo.gomes01\source\repos\Desafio DIO OOP\DesafioDIO\src\bin\Debug\net6.0\DesafioDIO.exe
+C:\Users\marcelo.gomes01\source\repos\Desafio DIO OOP\DesafioDIO\src\bin\Debug\net6.0\DesafioDIO.deps.json
+C:\Users\marcelo.gomes01\source\repos\Desafio DIO OOP\DesafioDIO\src\bin\Debug\net6.0\DesafioDIO.runtimeconfig.json
+C:\Users\marcelo.gomes01\source\repos\Desafio DIO OOP\DesafioDIO\src\bin\Debug\net6.0\DesafioDIO.dll
+C:\Users\marcelo.gomes01\source\repos\Desafio DIO OOP\DesafioDIO\src\bin\Debug\net6.0\ref\DesafioDIO.dll
+C:\Users\marcelo.gomes01\source\repos\Desafio DIO OOP\DesafioDIO\src\bin\Debug\net6.0\DesafioDIO.pdb
+C:\Users\marcelo.gomes01\source\repos\Desafio DIO OOP\DesafioDIO\src\obj\Debug\net6.0\DesafioDIO.csproj.AssemblyReference.cache
+C:\Users\marcelo.gomes01\source\repos\Desafio DIO OOP\DesafioDIO\src\obj\Debug\net6.0\DesafioDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcelo.gomes01\source\repos\Desafio DIO OOP\DesafioDIO\src\obj\Debug\net6.0\DesafioDIO.AssemblyInfoInputs.cache
+C:\Users\marcelo.gomes01\source\repos\Desafio DIO OOP\DesafioDIO\src\obj\Debug\net6.0\DesafioDIO.AssemblyInfo.cs
+C:\Users\marcelo.gomes01\source\repos\Desafio DIO OOP\DesafioDIO\src\obj\Debug\net6.0\DesafioDIO.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.gomes01\source\repos\Desafio DIO OOP\DesafioDIO\src\obj\Debug\net6.0\DesafioDIO.dll
+C:\Users\marcelo.gomes01\source\repos\Desafio DIO OOP\DesafioDIO\src\obj\Debug\net6.0\ref\DesafioDIO.dll
+C:\Users\marcelo.gomes01\source\repos\Desafio DIO OOP\DesafioDIO\src\obj\Debug\net6.0\DesafioDIO.pdb
+C:\Users\marcelo.gomes01\source\repos\Desafio DIO OOP\DesafioDIO\src\obj\Debug\net6.0\DesafioDIO.genruntimeconfig.cache
