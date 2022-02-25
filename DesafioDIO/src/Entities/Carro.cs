@@ -36,7 +36,7 @@ namespace DesafioDIO.src.Entities
                     Turbinado: {(this.Turbo ? "Sim":"Não")}";
         }
 
-        public string Viajar()
+        public virtual string Viajar()
         {
             Random rnd = new Random();
             Destino destino = this.Destinos.ElementAt(rnd.Next(this.Destinos.Count()));
