@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marcelo.gomes01\\source\\repos\\Desafio DIO OOP\\DesafioDIO\\src\\DesafioDIO.csproj": {}
+    "C:\\Users\\marce\\source\\repos\\Desafio DIO OOP\\DesafioDioOOP\\DesafioDIO\\src\\DesafioDIO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marcelo.gomes01\\source\\repos\\Desafio DIO OOP\\DesafioDIO\\src\\DesafioDIO.csproj": {
+    "C:\\Users\\marce\\source\\repos\\Desafio DIO OOP\\DesafioDioOOP\\DesafioDIO\\src\\DesafioDIO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marcelo.gomes01\\source\\repos\\Desafio DIO OOP\\DesafioDIO\\src\\DesafioDIO.csproj",
+        "projectUniqueName": "C:\\Users\\marce\\source\\repos\\Desafio DIO OOP\\DesafioDioOOP\\DesafioDIO\\src\\DesafioDIO.csproj",
         "projectName": "DesafioDIO",
-        "projectPath": "C:\\Users\\marcelo.gomes01\\source\\repos\\Desafio DIO OOP\\DesafioDIO\\src\\DesafioDIO.csproj",
-        "packagesPath": "C:\\Users\\marcelo.gomes01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marcelo.gomes01\\source\\repos\\Desafio DIO OOP\\DesafioDIO\\src\\obj\\",
+        "projectPath": "C:\\Users\\marce\\source\\repos\\Desafio DIO OOP\\DesafioDioOOP\\DesafioDIO\\src\\DesafioDIO.csproj",
+        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marce\\source\\repos\\Desafio DIO OOP\\DesafioDioOOP\\DesafioDIO\\src\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\marcelo.gomes01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

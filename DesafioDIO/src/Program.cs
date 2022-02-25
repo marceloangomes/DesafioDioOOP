@@ -21,10 +21,22 @@ class Program
             true
         );
 
+         CarroFuturo carroFuturo = new CarroFuturo(
+            3,
+            "WWW-4550",
+            "Prata",
+            "Velocidade da Luz",
+            new Modelo(1,"ECC 1701", 
+            new Marca(1,"Enterprise")),
+            true
+        );
+
         WriteLine(carroPasseio.ToString());
         WriteLine(carroPasseio.Viajar());
         WriteLine(carroEsporte.ToString());
         WriteLine(carroEsporte.Viajar());
+        WriteLine(carroFuturo.ToString());
+        WriteLine(carroFuturo.Viajar());
 
     }
 } 
